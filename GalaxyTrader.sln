@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyTrader", "GalaxyTrader\GalaxyTrader.csproj", "{79E6FD57-B0B7-4A53-B769-05EE31B5FEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGalaxyTrader", "TestGalaxyTrader\TestGalaxyTrader.csproj", "{E1067466-FAF7-4A99-B555-458B4814B569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E6FD57-B0B7-4A53-B769-05EE31B5FEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E6FD57-B0B7-4A53-B769-05EE31B5FEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E6FD57-B0B7-4A53-B769-05EE31B5FEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E6FD57-B0B7-4A53-B769-05EE31B5FEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1067466-FAF7-4A99-B555-458B4814B569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1067466-FAF7-4A99-B555-458B4814B569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1067466-FAF7-4A99-B555-458B4814B569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1067466-FAF7-4A99-B555-458B4814B569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCC892F-5DC0-4884-AF9B-E3F061D32BF5}
+	EndGlobalSection
+EndGlobal
