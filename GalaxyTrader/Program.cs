@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//I did some changes here
+
 namespace GalaxyTrader
 {
     class Program
